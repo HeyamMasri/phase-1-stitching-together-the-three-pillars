@@ -29,4 +29,4 @@ function mimicServerCall() {
     setTimeout(function () {
       resolve("Pretend remote server notified of action!");
     }, 300);
-  });
+  });}
